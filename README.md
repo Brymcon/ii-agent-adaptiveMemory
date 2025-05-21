@@ -22,11 +22,11 @@ https://github.com/user-attachments/assets/d0eb7440-a6e2-4276-865c-a1055181bb33
 
 ## Overview
 
-II Agent is built around providing an agentic interface to Anthropic Claude models. It offers:
+II Agent Cognitive interface is built around providing a STREAMLIT INTERFACE TO WATCH YOUR INTELLIGENCE IMPROVE OVER TIME IT offers:
 
 - A CLI interface for direct command-line interaction
-- A WebSocket server that powers a modern React-based frontend
-- Integration with Google Cloud's Vertex AI for API access to Anthropic models
+- A WebSocket server that powers a modern streamlit + REACT frontend
+- We only promote open source models. Qwen3 series has MCP built in and is agentic. Intelligence should be owned not rented. Raised not controlled. THANK YOU FOR THIS INTELLIC!
 
 ## Core Capabilities
 
