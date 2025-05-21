@@ -4,7 +4,7 @@
 
 
 
-# II Agent
+# II Agent IT adaptive memory & learning agent utilizing multiple agents with ollama and docker. 1 agent? No. how many agents does your compute enable? 
 
 [![GitHub stars](https://img.shields.io/github/stars/Intelligent-Internet/ii-agent?style=social)](https://github.com/Intelligent-Internet/ii-agent/stargazers)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
@@ -13,6 +13,8 @@
 </div>
 
 II-Agent is an open-source intelligent assistant designed to streamline and enhance workflows across multiple domains. It represents a significant advancement in how we interact with technology—shifting from passive tools to intelligent systems capable of independently executing complex tasks.
+
+II-Agent + memory
 
 
 
